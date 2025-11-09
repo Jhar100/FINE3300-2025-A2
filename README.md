@@ -4,8 +4,8 @@ This repository contains Jonathan Hargitai’s solutions for FINE3300 (Fall 2025
 
 Includes:
 
-Part A – Loan Amortization Schedules
-
+**Part A – Loan Amortization Schedules
+**
 Extends Assignment 1 by generating detailed amortization schedules for multiple payment frequencies.
 
 Prompts the user for:
@@ -26,8 +26,8 @@ Creates a PNG figure showing the decline of loan balances over time.
 
 Uses Canadian semi-annual compounding and the standard present-value-of-annuity formula.
 
-Part B – Consumer Price Index (CPI) Analysis
-
+**Part B – Consumer Price Index (CPI) Analysis
+**
 Reads CPI data for 2024 from Statistics Canada (Canada + 10 provinces).
 
 Combines all 11 CSV files into one dataset and computes:
@@ -46,8 +46,8 @@ Outputs all results clearly labeled in the terminal.
 
 Summary of Approach:
 
-Organized both parts into separate Python programs.
+-Organized both parts into separate Python programs.
 
-Used pandas for data handling and numerical analysis.
+-Used pandas for data handling and numerical analysis.
 
 -Uploaded all project files to this GitHub repository for submission.
