@@ -44,6 +44,12 @@ Combines all 11 CSV files into one dataset and computes:
 
 Outputs all results clearly labeled in the terminal.
 
+Example Output (Part A):
+
+Input: Principal: $500,000 Quoted Rate: 5.5% Amortization: 25 years, Mortgage TERM: 30 years
+
+Output: Monthly Payment: $3051.96 Semi-monthly Payment: $1524.25 Bi-weekly Payment: $1406.88 Weekly Payment: $703.07 Rapid Bi-weekly Payment: $1525.98 Rapid Weekly Payment: $762.99, A2_PartA_Schedules.xlsx, A2_PartA_BalanceDecline.png
+
 Summary of Approach:
 
 -Organized both parts into separate Python programs.
@@ -51,3 +57,8 @@ Summary of Approach:
 -Used pandas for data handling and numerical analysis.
 
 -Uploaded all project files to this GitHub repository for submission.
+
+
+
+
+
